@@ -1557,9 +1557,7 @@ textarea.form-input::-webkit-resizer {
     .clients-item {
         min-width: calc(33.33% - 35px);
     }
-    /**
-   * #RESUME
-   */
+
     .download-resume {
         font-size: 13.5px;
         font-weight: 400;
