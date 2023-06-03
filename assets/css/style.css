@@ -1318,14 +1318,6 @@ textarea.form-input::-webkit-resizer {
     background: var(--bg-gradient-jet);
 }
 
-/*-----------------------------------*\
-  #RESPONSIVE
-\*-----------------------------------*/
-
-/**
- * responsive larger than 450px screen
- */
-
 @media (min-width: 450px) {
     /**
    * client
@@ -1341,10 +1333,6 @@ textarea.form-input::-webkit-resizer {
         height: auto;
     }
 }
-
-/**
- * responsive larger than 580px screen
- */
 
 @media (min-width: 580px) {
     /**
